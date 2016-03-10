@@ -1,0 +1,8 @@
+G:\my\ComicBackground\ComicBackground\bin\Debug\ComicBackground.exe.config
+G:\my\ComicBackground\ComicBackground\bin\Debug\ComicBackground.exe
+G:\my\ComicBackground\ComicBackground\bin\Debug\ComicBackground.pdb
+G:\my\ComicBackground\ComicBackground\obj\Debug\ComicBackground.csprojResolveAssemblyReference.cache
+G:\my\ComicBackground\ComicBackground\obj\Debug\ComicBackground.Properties.Resources.resources
+G:\my\ComicBackground\ComicBackground\obj\Debug\ComicBackground.csproj.GenerateResource.Cache
+G:\my\ComicBackground\ComicBackground\obj\Debug\ComicBackground.exe
+G:\my\ComicBackground\ComicBackground\obj\Debug\ComicBackground.pdb
